@@ -1,1 +1,1 @@
-Enhance skills
+Polish OOP
